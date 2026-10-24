@@ -204,8 +204,8 @@ public class Nuvia {
 │  ────────────────────────────────  │
 │  status  : learning                │
 │  mood    : loading...              │
-│  coffee  : required                 │
-│  bugs    : several                  │
+│  coffee  : required                │
+│  bugs    : several                 │
 │  projects: too many                │
 │                                    │
 ╰────────────────────────────────────╯
